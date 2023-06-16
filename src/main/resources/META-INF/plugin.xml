@@ -1,0 +1,9 @@
+<idea-plugin>
+    <id>art.arcane.Cognito</id>
+    <name>Cognito</name>
+    <vendor email="magic@arcane.art" url="https://arcane.art">Arcane Arts</vendor>
+    <description>A toolbox of utilities for your IDE. These are generally tweaks and options.</description>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+</idea-plugin>
